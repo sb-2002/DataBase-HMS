@@ -60,7 +60,7 @@ This repository contains the database schema, documentation, and supporting file
 ## Contributors
 
 - sb-2002
-- [Add your teammates' names or GitHub handles here]
+- and other teammates...
 
 ## License
 
